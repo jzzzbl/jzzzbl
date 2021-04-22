@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jzzzbl
-- 👀 I’m interested in Web & App Front-End Development
+- 👀 I’m interested in Web & Mobile Front-End Development
 - 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on React projects
 - 📫 You can reach me on jeztorres.com/
